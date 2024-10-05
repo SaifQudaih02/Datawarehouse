@@ -1,0 +1,5 @@
+weather_id,temperature,condition,weather_type
+1,>=15,Sunny,aangenaam
+2,<15,Rainy,onaangenaam
+3,<15 and >-10,Cloudy,neutraal
+4,any,unknown,onbekend
