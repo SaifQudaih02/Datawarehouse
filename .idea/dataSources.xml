@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="postgres@localhost VeloDB" uuid="76e5531e-49d2-4e4f-9a50-ef1830b6ed6a">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5433/postgres</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="postgres@localhost tutorial_op" uuid="384d53bf-994e-47f4-a709-a201e9009768">
-    <data-source source="LOCAL" name="postgres@localhost tutorial_DB" uuid="5b6000fb-9663-459f-9fe2-f989f297e875">
+    <data-source source="LOCAL" name="postgres@localhost" uuid="4d15fb8a-0e29-4928-acdd-6567e716ceb9">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
@@ -21,7 +13,7 @@
       </jdbc-additional-properties>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="postgres@localhost VeloDB" uuid="19fd67c1-fd29-4cc6-ad42-9803e075ab55">
+    <data-source source="LOCAL" name="postgres@localhost [VELO_DB]" uuid="f495271b-b367-4f74-bd3b-e00e035466f9">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
