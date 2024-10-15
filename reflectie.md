@@ -30,3 +30,10 @@
 * De Incremantal moet ook geladen worden in het feit tabel.
 * monotonically_increasing_id() toepassen ipv uuid() in dimCustomer
 * De fact tabel moet alleen maar meetwaarden, sleutel en FK'S die verwijzen naar dimensies 
+
+# Vragen Week 5 15/10/2024
+* Hoe kan ik de start_time van rit halen in de weer Api responses dus "in the json files"
+* Hoe kan ik met de dimweer en de Api responses van weer behandelen om alle twee te verbinden met het feit tabel, Of de bedoeling vaan een van hen !
+* Moet ik de duration van ritten een apart query maken of gewoon vermelden in de select statemnet van het feit tabel.
+* Hoe de afstand berekenen van een rit ! 
+* Hoeveel procent moet klaar zijn tegen volgend week van de hele project ?
