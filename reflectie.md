@@ -36,9 +36,7 @@
 * Hoe kan ik met de dimweer en de Api responses van weer behandelen om alle twee te verbinden met het feit tabel, Of de bedoeling vaan een van hen !
 * Moet ik de duration van ritten een apart query maken of gewoon vermelden in de select statemnet van het feit tabel.
 * Hoe de afstand berekenen van een rit ! 
-<<<<<<< HEAD
 * Hoeveel procent moet klaar zijn tegen volgend week van de hele project ?
-=======
 * Hoeveel procent moet klaar zijn tegen volgend week van de hele project ?
 
 # V2 Status 
@@ -66,4 +64,3 @@
 # Na het tweede gesprek "22/10/2024"
 ### Feedback 
 * 
->>>>>>> 2513fbd69b325c67c622f290c4143b552576333b
