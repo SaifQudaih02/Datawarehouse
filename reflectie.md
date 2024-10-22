@@ -36,4 +36,34 @@
 * Hoe kan ik met de dimweer en de Api responses van weer behandelen om alle twee te verbinden met het feit tabel, Of de bedoeling vaan een van hen !
 * Moet ik de duration van ritten een apart query maken of gewoon vermelden in de select statemnet van het feit tabel.
 * Hoe de afstand berekenen van een rit ! 
+<<<<<<< HEAD
 * Hoeveel procent moet klaar zijn tegen volgend week van de hele project ?
+=======
+* Hoeveel procent moet klaar zijn tegen volgend week van de hele project ?
+
+# V2 Status 
+### Waar staan we globaal?
+- S2 opdracht 1 is af en S1 moet nog de analyse vragen doen.
+- We hebben de feedback na de eerste evaluatie aangepast op onze code.
+- NoSql installatie is klaar en ElasticSearch Velo Forum met tekst functionaliteit is ook klaar.
+
+### Wat loopt goed en minder goed ?
+* Bij S1 hadden we het moeilijk om match te maken tussen de weathertime en de ridestarttime en we hebben veel tijd verloren voor niks om dit deelje aan te passen.
+* Het werken met weather api was niet zo goed gelopen, misschien want we hebben geen enkele voorbeeld gekregen tijdens de lessen.
+* Bij S2 was alles goed gelopen en hij is bijna klaar met zijn deeltje.
+
+### Hoe verloop de samenwerking 
+* De samenwerking was goed gegaan in het algemeen. We hebben goed met elkaar kunnen communiceren en elkaar helpen. 
+
+### Progress per deel
+* 90% bij Spark 
+* 30% bij NoSql
+
+### Vragen 
+* Als alles wordt afgemaakt behalve een klein stukje van een opdracht, dan kunnen we een kans hebben om te slagen! Want we hebben nog veel te doen met andere vakken.
+
+****************************
+# Na het tweede gesprek "22/10/2024"
+### Feedback 
+* 
+>>>>>>> 2513fbd69b325c67c622f290c4143b552576333b
