@@ -43,6 +43,8 @@ def startLocalCluster(appName, partitions=4):
         .config("spark.executor.extraJavaOptions",
                 "-Dsasl.jaas.config=org.apache.kafka.common.security.plain.PlainLoginModule required username=RHUIVNZYHMOODAKC password=/bkAQpKgCWjkPfTgxRY973VOhKf+MmwFulZLrAdrwdlXUTta0AUvNjo/8U57R8/w;") \
         .config("spark.executor.extraJavaOptions", "-Dsasl.mechanism=PLAIN") \
+        .config("spark.executor.memory", "4g") \
+        .config("spark.driver.memory", "4g") \
         .master("local[*]")
 
     extra_packages = ["org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.0",get_Property("driver_repo")]
