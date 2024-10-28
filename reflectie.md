@@ -62,5 +62,7 @@
 
 ****************************
 # Na het tweede gesprek "22/10/2024"
-### Feedback 
-* 
+### Feedback
+* startlockid != zipcode dus deze aanpassen
+* in feit mag geen UNKNOWN want deze is string
+* koppeling gebeurt in de csv file... logica moet in fact job staan.
