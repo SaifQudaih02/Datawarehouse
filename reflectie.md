@@ -66,3 +66,17 @@
 * startlockid != zipcode dus deze aanpassen
 * in feit mag geen UNKNOWN want deze is string
 * koppeling gebeurt in de csv file... logica moet in fact job staan.
+
+# V3 Status 
+### Waar staan we globaal?
+- Alles af.
+
+### Wat loopt goed en minder goed ?
+* Alles was goed gegaan.
+
+### Hoe verloop de samenwerking 
+* De samenwerking was goed gegaan in het algemeen. We hebben goed met elkaar kunnen communiceren en elkaar helpen. 
+
+### Progress per deel
+* 100% bij Spark.
+
